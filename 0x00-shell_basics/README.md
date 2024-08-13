@@ -1,2 +1,1 @@
-ame of the current working director
-Display the contents list of your current directoryt
+This readme was created on the 28th of september, 2023
